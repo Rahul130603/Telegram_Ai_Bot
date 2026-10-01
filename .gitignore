@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+backend/data/
+backend/tmp/
+backend/out/
+backend/.tmp/
+*.log
+tmp/
+*.tmp
+backend/tests/*_marker.txt
+.env.*
+!.env.example
+
